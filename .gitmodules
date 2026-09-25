@@ -6,3 +6,7 @@
 	path = arcstat
 	url = https://github.com/mtloots/arcstat
 	subdir = arcstat
+[submodule "regstat"]
+	path = regstat
+	url = https://github.com/mtloots/regstat
+	subdir = regstat
