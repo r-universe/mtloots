@@ -6,6 +6,9 @@
 	path = arcstat
 	url = https://github.com/mtloots/arcstat
 	subdir = arcstat
+[submodule "exactcond"]
+	path = exactcond
+	url = https://github.com/mtloots/exactcond
 [submodule "regstat"]
 	path = regstat
 	url = https://github.com/mtloots/regstat
