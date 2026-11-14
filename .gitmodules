@@ -13,3 +13,7 @@
 	path = regstat
 	url = https://github.com/mtloots/regstat
 	subdir = regstat
+[submodule "wsgnstat"]
+	path = wsgnstat
+	url = https://github.com/mtloots/wsgnstat
+	subdir = wsgnstat
